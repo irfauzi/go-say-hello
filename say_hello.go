@@ -11,5 +11,6 @@ func SayHello() string {
 func tes() {
 
 	fmt.Println("hello")
+	fmt.Println("hiiii")
 
 }
