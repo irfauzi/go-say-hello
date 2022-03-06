@@ -13,5 +13,6 @@ func tes() {
 	fmt.Println("hello")
 	fmt.Println("hiiii")
 	fmt.Println("euuuy")
+	fmt.Println("qwerty")
 
 }
