@@ -6,8 +6,6 @@ func SayHello() string {
 
 }
 
-func tes()  {
-
-
+func tes() {
 
 }
